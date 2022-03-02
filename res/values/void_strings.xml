@@ -127,4 +127,8 @@
     <!-- Daily battery usage charge -->
     <string name="daily_battery_usage_chart">Daily battery usage chart</string>
     <string name="daily_battery_usage_chart_summary">View usage for past 24 hours</string>
+
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Your mobile hotspot\'s name won\'t appear in the list of available WLAN networks.</string>
 </resources>
