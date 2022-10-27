@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Phiên bản phát hành Voidui</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Người duy trì</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Chạm để hiển thị thông tin</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Không gian trò chơi</string>
+    <string name="game_space_summary">Cải thiện trải nghiệm chơi game</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Vuốt để chụp ảnh màn hình</string>
+    <string name="swipe_to_screenshot_summary">Vuốt 3 ngón tay xuống màn hình để chụp ảnh màn hình</string>
+    <!-- reTicker -->
+    <string name="reticker_title">Thông báo nổi kiểu mới</string>
+    <string name="reticker_summary">Thay thế thông báo nổi bằng thông báo kiểu mới được thiết kế mỏng và chiếm ít diện tích hơn</string>
+    <string name="reticker_colored_title">Sử dụng nền màu ứng dụng</string>
+    <string name="reticker_colored_summary">Thay thế màu nền thông báo bằng màu chính của ứng dụng thông báo</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="statusbar_gesture_title">Cử chỉ thanh trạng thái</string>
+    <string name="double_tap_sleep_gesture_title">Chạm hai lần để tắt màn hình</string>
+    <string name="double_tap_sleep_gesture_summary">Nhấn 2 lần vào bất kì vị trí nào trên thanh trạng thái để tắt màn hình</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Nhấn đúp</string>
+    <string name="doze_double_tap_title">Nhấp đôi màn hình để kiểm tra nhanh</string>
+    <string name="doze_double_tap_summary">Thông báo xung bằng cách chạm hai lần</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Khởi động lại nâng cao</string>
+    <string name="global_actions_advanced_reboot_summary">Hiển thị thêm mục khởi động lại vào recovery và bootloader</string>
+    <!-- Manage applications, package string displayed in app snippet -->
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Nhiệt độ pin</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_summary">Tối ưu hóa màn hình dựa trên điều kiện môi trường và thời gian trong ngày để cải thiện khả năng đọc và giảm mỏi mắt</string>
+    <string name="live_display_mode">Display mode</string>
+    <string name="live_display_color_temperature_title">Nhiệt độ màu</string>
+    <string name="live_display_color_temperature_summary">Day: <xliff:g id="day_temperature">%1$d</xliff:g>K  Night: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">Ngày</string>
+    <string name="live_display_night">Đêm</string>
+    <string name="live_display_outdoor_mode_title">Chế độ ngoài trời tự động</string>
+    <string name="live_display_outdoor_mode_summary">Tự động tăng độ sáng và độ bão hòa dưới ánh sáng mặt trời</string>
+    <string name="live_display_anti_flicker_title">Chống nhấp nháy</string>
+    <string name="live_display_anti_flicker_summary">Ngăn ngừa nhấp nháy trong thời gian dài và giảm mỏi mắt trong điều kiện ánh sáng thấp. Nó có thể làm giảm độ chính xác của màu và ảnh hưởng cách mà một số mục được hiển thị.</string>
+    <string name="live_display_low_power_title">Giảm tiêu thụ điện năng</string>
+    <string name="live_display_low_power_summary">Điều chỉnh hiển thị cho tiêu thụ điện năng thấp nhất mà không làm giảm chất lượng</string>
+    <string name="live_display_enhance_color_title">Tăng cường màu sắc</string>
+    <string name="live_display_enhance_color_summary">Cải thiện độ ổn định của màu sắc cho cảnh quan và các hình ảnh khác</string>
+    <string name="live_display_color_profile_title">Cấu hình màu</string>
+    <string name="live_display_color_profile_standard_title">Tiêu chuẩn</string>
+    <string name="live_display_color_profile_standard_summary">Màu sắc chính xác và màu trắng sáng</string>
+    <string name="live_display_color_profile_natural_title">Tự nhiên</string>
+    <string name="live_display_color_profile_natural_summary">Màu sắc thực tế và tông màu da</string>
+    <string name="live_display_color_profile_dynamic_title">Thích ứng</string>
+    <string name="live_display_color_profile_dynamic_summary">Màu sắc được tăng cường và màu trắng sáng</string>
+    <string name="live_display_color_profile_cinema_title">Điện ảnh</string>
+    <string name="live_display_color_profile_cinema_summary">Tái tạo màu sắc hoàn hảo cho video</string>
+    <string name="live_display_color_profile_astronomy_title">Thiên văn học</string>
+    <string name="live_display_color_profile_astronomy_summary">Màu đỏ sâu để duy trì tầm nhìn trời đêm</string>
+    <string name="live_display_color_profile_photography_title">Nhiếp ảnh</string>
+    <string name="live_display_color_profile_photography_summary">Tái tạo màu sắc hoàn hảo cho hình ảnh</string>
+    <string name="live_display_color_profile_basic_title">Cơ bản</string>
+    <string name="live_display_color_profile_basic_summary">Không hiệu chỉnh màn hình</string>
+    <string name="live_display_color_profile_adaptive_title">Thích ứng</string>
+    <string name="live_display_color_profile_adaptive_summary">Màu sắc tự thích ứng với môi trường xung quanh</string>
+    <string name="live_display_color_profile_reading_title">Đọc</string>
+    <string name="live_display_color_profile_reading_summary">Hiển thị màu ấm hơn để giảm mỏi mắt</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Màu sắc chính xác cho dải màu sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Màu sắc chính xác cho dải màu sRGB</string>
+    <string name="live_display_reading_mode_title">Chế độ đọc</string>
+    <string name="live_display_reading_mode_summary">Chế độ màu đen trắng để đọc sách trong thời gian dài</string>
+    <string name="color_calibration_title">Hiệu chỉnh màu sắc</string>
+    <string name="color_calibration_summary">Calibrate on-screen colors</string>
+    <string name="color_red_title">Red</string>
+    <string name="color_green_title">Green</string>
+    <string name="color_blue_title">Blue</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Picture adjustment</string>
+    <string name="picture_adjustment_summary">Adjust hue, saturation, intensity, and contrast</string>
+    <string name="adj_hue_title">Hue</string>
+    <string name="adj_saturation_title">Saturation</string>
+    <string name="adj_intensity_title">Intensity</string>
+    <string name="adj_contrast_title">Contrast</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
+    <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua không gian khuyết</string>
+    <string name="display_cutout_force_fullscreen_no_apps">No apps</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Please restart the application to apply the changes.</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignore secure window flag</string>
+    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">Daily battery usage chart</string>
+    <string name="daily_battery_usage_chart_summary">View usage for past 24 hours</string>
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Your mobile hotspot\'s name won\'t appear in the list of available WLAN networks.</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">Never turn off hotspot</string>
+    <string name="wifi_hotspot_client_manager_title">Connected devices</string>
+    <string name="wifi_hotspot_client_manager_summary">List and manage devices connected to the hotspot</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">List devices connected to the hotspot</string>
+    <string name="wifi_hotspot_client_limit_title">Limit of connected devices</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Blocked Devices</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Connected Devices</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Block device</string>
+    <string name="wifi_hotspot_block_client_dialog_text">This action will disconnect \"<xliff:g id="device_name">%1$s</xliff:g>\" from this device and add it to blocklist</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Unblock device</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">The device \"<xliff:g id="device_name">%1$s</xliff:g>\" will be able to connect to this hotspot</string>
+    <string name="wifi_hotspot_client_manager_footer_text">No clients are currently available. Connected and blocked devices will be listed here when available.</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Never</string>
+    <string name="custom_timeout_summary_5secs">5 seconds</string>
+    <string name="custom_timeout_summary_10secs">10 seconds</string>
+    <string name="custom_timeout_summary_15secs">15 seconds</string>
+    <string name="custom_timeout_summary_30secs">30 seconds</string>
+    <string name="custom_timeout_summary_1min">1 minute</string>
+    <string name="custom_timeout_summary_2mins">2 minutes</string>
+    <string name="custom_timeout_summary_5mins">5 minutes</string>
+    <string name="custom_timeout_summary_10mins">10 minutes</string>
+    <string name="custom_timeout_summary_20mins">20 minutes</string>
+    <string name="custom_timeout_summary_30mins">30 minutes</string>
+    <string name="custom_timeout_summary_1hour">1 hour</string>
+    <string name="custom_timeout_summary_2hours">2 hours</string>
+    <string name="custom_timeout_summary_4hours">4 hours</string>
+    <string name="custom_timeout_summary_8hours">8 hours</string>
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">Navigation bar</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Chiều dài thanh cử chỉ</string>
+    <string name="hide_label">Hidden</string>
+    <string name="long_label">Dài</string>
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">Gesture handle</string>
+    <string name="back_gesture_arrow_message">Back gesture animation</string>
+    <string name="back_gesture_arrow_summary">Show an animated arrow for back gesture</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Pill radius</string>
+    <string name="thin_label">Thin</string>
+    <string name="thick_label">Thick</string>
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Full</string>
+    <string name="back_height_high_label">Bottom</string>
+    <string name="back_options_dialog_title">Options</string>
+    <string name="back_height_message">Amount of screen height used as touchable region for back gesture.</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Haptic feedback</string>
+    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
+    <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation bar</string>
+    <!-- Floating rotation button -->
+    <string name="enable_floating_rotation_button_title">Use floating rotate button</string>
+</resources>

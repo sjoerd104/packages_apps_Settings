@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Версия выпуска VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Мейнтейнер устройства</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Нажмите для отображения информации</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Игровое пространство</string>
+    <string name="game_space_summary">Улучшайте свои впечатления от игр</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Жест тремя пальцами</string>
+    <string name="swipe_to_screenshot_summary">Проведите тремя пальцами вниз для создания скриншота</string>
+    <!-- reTicker -->
+    <string name="reticker_title">Новый стиль уведомлений</string>
+    <string name="reticker_summary">Замените всплывающие уведомления на переработанную, более тонкую и менее агрессивную версию</string>
+    <string name="reticker_colored_title">Использовать цвет приложений для фона</string>
+    <string name="reticker_colored_summary">Цвет фона уведомления будет заменён основным цветом приложения</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="statusbar_gesture_title">Жесты</string>
+    <string name="double_tap_sleep_gesture_title">Двойное нажатие для перехода в режим сна</string>
+    <string name="double_tap_sleep_gesture_summary">Дважды нажмите в любом месте на строке состояния, чтобы перевести устройство в спящий режим</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Двойное касание</string>
+    <string name="doze_double_tap_title">Просмотр времени и уведомлений двойным нажатием</string>
+    <string name="doze_double_tap_summary">Пульсировать уведомления при двойном тапе</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Расширенная перезагрузка</string>
+    <string name="global_actions_advanced_reboot_summary">Показать опции для рекавери и загрузчика в меню кнопки питания</string>
+    <!-- Manage applications, package string displayed in app snippet -->
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Температура батареи</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_summary">Подстраивать экран на основе времени суток и освещения, чтобы повысить читаемость и снизить нагрузку на глаза</string>
+    <string name="live_display_mode">Режим отображения</string>
+    <string name="live_display_color_temperature_title">Цветовой тон</string>
+    <string name="live_display_color_temperature_summary">День: <xliff:g id="day_temperature">%1$d</xliff:g>K Ночь: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">День</string>
+    <string name="live_display_night">Ночь</string>
+    <string name="live_display_outdoor_mode_title">Автоматический режим \"На улице\"</string>
+    <string name="live_display_outdoor_mode_summary">Автоматически увеличивать яркость и насыщенность при ярком освещении</string>
+    <string name="live_display_anti_flicker_title">Защита от мерцания</string>
+    <string name="live_display_anti_flicker_summary">Предотвращает чрезмерное мерцание и уменьшает нагрузку глаз в условиях низкого освещения. Он может понизить точность цвета и повлиять на отображение некоторых элементов.</string>
+    <string name="live_display_low_power_title">Снижение энергопотребления</string>
+    <string name="live_display_low_power_summary">Подстраивать экран для низкого энергопотребления без ухудшения качества</string>
+    <string name="live_display_enhance_color_title">Улучшение цветопередачи</string>
+    <string name="live_display_enhance_color_summary">Улучшить цветовую насыщенность оттенков кожи, пейзажей и других изображений</string>
+    <string name="live_display_color_profile_title">Цветовой профиль</string>
+    <string name="live_display_color_profile_standard_title">Стандартный</string>
+    <string name="live_display_color_profile_standard_summary">Точные цвета и повышенная контрастность</string>
+    <string name="live_display_color_profile_natural_title">Натуральный</string>
+    <string name="live_display_color_profile_natural_summary">Натуральные цвета и оттенки кожи</string>
+    <string name="live_display_color_profile_dynamic_title">Динамический</string>
+    <string name="live_display_color_profile_dynamic_summary">Насыщенные цвета и повышенная контрастность</string>
+    <string name="live_display_color_profile_cinema_title">Кино</string>
+    <string name="live_display_color_profile_cinema_summary">Идеальная цветопередача для видео</string>
+    <string name="live_display_color_profile_astronomy_title">Астрономия</string>
+    <string name="live_display_color_profile_astronomy_summary">Глубокий красный для сохранения видимости ночью</string>
+    <string name="live_display_color_profile_photography_title">Предметы и пейзаж</string>
+    <string name="live_display_color_profile_photography_summary">Идеальная цветопередача для фотографий</string>
+    <string name="live_display_color_profile_basic_title">Основной</string>
+    <string name="live_display_color_profile_basic_summary">Не калибровать дисплей</string>
+    <string name="live_display_color_profile_adaptive_title">Адаптивная регулировка</string>
+    <string name="live_display_color_profile_adaptive_summary">Цвета адаптируются к условиям окружающей среды</string>
+    <string name="live_display_color_profile_reading_title">Чтение</string>
+    <string name="live_display_color_profile_reading_summary">Теплые цвета для меньшего напряжения глаз</string>
+    <string name="live_display_color_profile_srgb_title">Режим sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Цвета, соответствующие цветовому пространству sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">Цветовое пространство DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Цвета, соответствующие цветовому пространству DCI-P3</string>
+    <string name="live_display_reading_mode_title">Режим чтения</string>
+    <string name="live_display_reading_mode_summary">Режим оттенков серого для долговременного чтения</string>
+    <string name="color_calibration_title">Калибровка цвета</string>
+    <string name="color_calibration_summary">Настройка цветопередачи экрана</string>
+    <string name="color_red_title">Красный</string>
+    <string name="color_green_title">Зелёный</string>
+    <string name="color_blue_title">Синий</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Корректировка изображения</string>
+    <string name="picture_adjustment_summary">Отрегулируйте оттенок, насыщенность, глубину и контрастность</string>
+    <string name="adj_hue_title">Оттенок</string>
+    <string name="adj_saturation_title">Насыщенность</string>
+    <string name="adj_intensity_title">Интенсивность</string>
+    <string name="adj_contrast_title">Контраст</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Разрешить клиентам использовать VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Разрешить клиентам точки доступа при подключении использовать VPN-соединения этого устройства</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
+    <string name="display_cutout_force_fullscreen_summary">Принудительное игнорирование выреза экрана</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Нет приложений</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Пожалуйста, перезапустите приложение, чтобы изменения вступили в силу.</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Игнорировать флаг безопасности окон</string>
+    <string name="ignore_window_secure_summary">Снимите ограничения на снимки экрана и запись экрана для всех приложений. Это может быть удобно в некоторых случаях, но может привести к утечке конфиденциальной информации.</string>
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">Ежедневный график использования батареи</string>
+    <string name="daily_battery_usage_chart_summary">Просмотр использования за последние 24 часа</string>
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Скрытая сеть</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Имя вашей мобильной точки доступа не появится в списке доступных сетей WLAN.</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">Никогда не выключать точку доступа</string>
+    <string name="wifi_hotspot_client_manager_title">Подключенные устройства</string>
+    <string name="wifi_hotspot_client_manager_summary">Список и управление устройствами, подключенными к точке доступа</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Список устройств, подключенных к точке доступа</string>
+    <string name="wifi_hotspot_client_limit_title">Ограничение количества подключенных устройств</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Заблокированные устройства</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Подключенные устройства</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Заблокировать устройство</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Это действие отключит \"<xliff:g id="device_name">%1$s</xliff:g>\" от этого устройства и добавит его в список блокировки.</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Разблокировать устройство</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Устройство \"<xliff:g id="device_name">%1$s</xliff:g>\" сможет подключаться к этой точке доступа</string>
+    <string name="wifi_hotspot_client_manager_footer_text">В настоящее время нет доступных клиентов. Подключенные и заблокированные устройства будут перечислены здесь, когда станут доступны.</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Никогда</string>
+    <string name="custom_timeout_summary_5secs">5 секунд</string>
+    <string name="custom_timeout_summary_10secs">10 секунд</string>
+    <string name="custom_timeout_summary_15secs">15 секунд</string>
+    <string name="custom_timeout_summary_30secs">30 секунд</string>
+    <string name="custom_timeout_summary_1min">1 минута</string>
+    <string name="custom_timeout_summary_2mins">2 минуты</string>
+    <string name="custom_timeout_summary_5mins">5 минут</string>
+    <string name="custom_timeout_summary_10mins">10 минут</string>
+    <string name="custom_timeout_summary_20mins">20 минут</string>
+    <string name="custom_timeout_summary_30mins">30 минут</string>
+    <string name="custom_timeout_summary_1hour">1 час</string>
+    <string name="custom_timeout_summary_2hours">2 часа</string>
+    <string name="custom_timeout_summary_4hours">4 часа</string>
+    <string name="custom_timeout_summary_8hours">8 часов</string>
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">Панель навигации</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Длина панели жестов</string>
+    <string name="hide_label">Скрытая</string>
+    <string name="long_label">Длинная</string>
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">Полоска жестов</string>
+    <string name="back_gesture_arrow_message">Анимация жеста \"Назад\"</string>
+    <string name="back_gesture_arrow_summary">Отображать анимированную стрелку для жеста назад</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Толщина полосы</string>
+    <string name="thin_label">Тонкая</string>
+    <string name="thick_label">Толстая</string>
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Полная</string>
+    <string name="back_height_high_label">Снизу</string>
+    <string name="back_options_dialog_title">Настройки</string>
+    <string name="back_height_message">Область экрана, используемая для жеста Назад.</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Тактильный Отклик</string>
+    <string name="back_gesture_haptic_summary">Включение тактильного эффекта при жесте назад</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Инвертировать расположение панели навигации</string>
+    <string name="navbar_invert_info">Поменять местами кнопки \"Назад\" и \"Недавние\" на панели навигации</string>
+    <!-- Floating rotation button -->
+    <string name="enable_floating_rotation_button_title">Использовать плавающую кнопку поворота</string>
+</resources>

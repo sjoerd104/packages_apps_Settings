@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI Release Versie</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Apparaat onderhouder</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Tik om info te tonen</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Game Modus</string>
+    <string name="game_space_summary">Verbeter je spelbeleving</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Swipe voor schermafbeelding</string>
+    <string name="swipe_to_screenshot_summary">Veeg 3 vingers omlaag op het scherm om een schermafbeelding te maken</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Vervang heads-up notificatie met kleinere en minder invasieve versie van herontworpen ticker</string>
+    <string name="reticker_colored_title">Gebruik de gekleurde achtergrond van de app</string>
+    <string name="reticker_colored_summary">Herticker achtergrondkleur vervangen door hoofdkleur van app notificatie</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="statusbar_gesture_title">Vingerbewegingen</string>
+    <string name="double_tap_sleep_gesture_title">Dubbeltikken voor slaapstand</string>
+    <string name="double_tap_sleep_gesture_summary">Dubbeltikken op de statusbalk om het apparaat in slaapstand te zetten</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Dubbel tikken</string>
+    <string name="doze_double_tap_title">Dubbeltikken om telefoon te checken</string>
+    <string name="doze_double_tap_summary">Meldingen laten zien door dubbel tikken</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Geavanceerd herstarten</string>
+    <string name="global_actions_advanced_reboot_summary">Toon opties voor recovery en bootloader in het afsluitmenu</string>
+    <!-- Manage applications, package string displayed in app snippet -->
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Temperatuur accu</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_summary">Uw scherm optimaliseren aan de hand van tijdstip op de dag en lichtomstandigheden om de leesbaarheid te verbeteren en oogvermoeidheid te verminderen</string>
+    <string name="live_display_mode">Weergave modus</string>
+    <string name="live_display_color_temperature_title">Kleur temperatuur</string>
+    <string name="live_display_color_temperature_summary">Dag: <xliff:g id="day_temperature">%1$d</xliff:g>K Nacht: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">dag</string>
+    <string name="live_display_night">Nacht</string>
+    <string name="live_display_outdoor_mode_title">Automatische buitenmodus</string>
+    <string name="live_display_outdoor_mode_summary">Helderheid en verzadiging automatisch verhogen bij fel zonlicht</string>
+    <string name="live_display_anti_flicker_title">Anti flikker</string>
+    <string name="live_display_anti_flicker_summary">Voorkom extensieve knippering en vermindert vermoeidheid van de ogen in lage lichtomstandigheden. Het kan de kleurnauwkeurigheid verlagen en de manier waarop sommige items worden weergegeven beïnvloeden.</string>
+    <string name="live_display_low_power_title">Verminder stroomverbruik</string>
+    <string name="live_display_low_power_summary">Scherm aanpassen voor laagste stroomverbruik zonder degradatie</string>
+    <string name="live_display_enhance_color_title">Kleuren verbeteren</string>
+    <string name="live_display_enhance_color_summary">Kleurlevendigheid verbeteren van huidtinten, landschappen en andere afbeeldingen</string>
+    <string name="live_display_color_profile_title">Profiel kleuren</string>
+    <string name="live_display_color_profile_standard_title">Standaard</string>
+    <string name="live_display_color_profile_standard_summary">Nauwkeurige kleuren en heldere witwaarden</string>
+    <string name="live_display_color_profile_natural_title">Natuurlijk</string>
+    <string name="live_display_color_profile_natural_summary">Realistische kleuren en huidtinten</string>
+    <string name="live_display_color_profile_dynamic_title">Dynamisch</string>
+    <string name="live_display_color_profile_dynamic_summary">Verbeterde kleuren en heldere witwaarden</string>
+    <string name="live_display_color_profile_cinema_title">Bioscoop</string>
+    <string name="live_display_color_profile_cinema_summary">Perfecte kleurweergave voor video</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomie</string>
+    <string name="live_display_color_profile_astronomy_summary">Diepe rood voor het behoud van nachtzicht</string>
+    <string name="live_display_color_profile_photography_title">Sportbeoefening</string>
+    <string name="live_display_color_profile_photography_summary">Perfecte kleurweergave voor foto\'s</string>
+    <string name="live_display_color_profile_basic_title">Eenvoudig</string>
+    <string name="live_display_color_profile_basic_summary">Scherm ongekalibreerd gebruiken</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptief</string>
+    <string name="live_display_color_profile_adaptive_summary">Kleuren passen zich aan aan de omgeving</string>
+    <string name="live_display_color_profile_reading_title">Lezen</string>
+    <string name="live_display_color_profile_reading_summary">Warmere kleuren voor minder vermoeidheid van de ogen</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Kleuren accuraat van de sRGB kleurruimte</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Kleuren accuraat in de DCI-P3 kleurruimte</string>
+    <string name="live_display_reading_mode_title">Leesmodus</string>
+    <string name="live_display_reading_mode_summary">Grijsschaalmodus voor langdurig lezen</string>
+    <string name="color_calibration_title">Kleuren kalibreren</string>
+    <string name="color_calibration_summary">Schermkleuren kalibreren</string>
+    <string name="color_red_title">Rood</string>
+    <string name="color_green_title">Groen</string>
+    <string name="color_blue_title">Blauw</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Foto aanpassen</string>
+    <string name="picture_adjustment_summary">Tint, verzadiging, intensiteit en contrast aanpassen</string>
+    <string name="adj_hue_title">Kleurschakering</string>
+    <string name="adj_saturation_title">Verzadiging</string>
+    <string name="adj_intensity_title">Intensiteit</string>
+    <string name="adj_contrast_title">Contrast</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Sta cliënten toe VPN\'s te gebruiken</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Hotspot clients toestaan om dit apparaat te gebruiken\u2019s VPN verbindingen voor stroomopwaarts connectiviteit</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Volledig scherm apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Dwing apps om notch ruimte te negeren</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Geen apps</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Herstart de applicatie om de wijzigingen toe te passen.</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Vlag voor beveiligd venster negeren</string>
+    <string name="ignore_window_secure_summary">Schermopname- en schermopnamelimieten verwijderen voor alle apps. Dit kan in sommige gevallen handig zijn, maar kan leiden tot privacylekken.</string>
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">Dagelijkse gebruiksgrafiek van de batterij</string>
+    <string name="daily_battery_usage_chart_summary">Gebruik van de afgelopen 24 uur bekijken</string>
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Verborgen netwerk</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">De naam van uw mobiele hotspot verschijnt niet in de lijst met beschikbare WLAN-netwerken.</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">Schakel hotspot nooit uit</string>
+    <string name="wifi_hotspot_client_manager_title">Aangesloten apparaten</string>
+    <string name="wifi_hotspot_client_manager_summary">Lijst en beheer van apparaten verbonden met de hotspot</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Lijst van apparaten verbonden met de hotspot</string>
+    <string name="wifi_hotspot_client_limit_title">Limiet van aangesloten apparaten</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Geblokkeerde apparaten</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Aangesloten apparaten</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Blokapparaat</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Deze actie zal \"<xliff:g id="device_name">%1$s</xliff:g>\" van dit apparaat loskoppelen en toevoegen aan de blokkadelijst.</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Apparaat deblokkeren</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Het apparaat \"<xliff:g id="device_name">%1$s</xliff:g>\" zal verbinding kunnen maken met deze hotspot.</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Er zijn momenteel geen clients beschikbaar. Verbonden en geblokkeerde apparaten worden hier vermeld zodra ze beschikbaar zijn.</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Nooit</string>
+    <string name="custom_timeout_summary_5secs">5 seconden.</string>
+    <string name="custom_timeout_summary_10secs">10 seconden.</string>
+    <string name="custom_timeout_summary_15secs">15 seconden.</string>
+    <string name="custom_timeout_summary_30secs">30 seconden.</string>
+    <string name="custom_timeout_summary_1min">1 minuut</string>
+    <string name="custom_timeout_summary_2mins">2 minuten</string>
+    <string name="custom_timeout_summary_5mins">5 minuten.</string>
+    <string name="custom_timeout_summary_10mins">10 minuten.</string>
+    <string name="custom_timeout_summary_20mins">20 minuten</string>
+    <string name="custom_timeout_summary_30mins">30 minuten</string>
+    <string name="custom_timeout_summary_1hour">1 uur.</string>
+    <string name="custom_timeout_summary_2hours">2 uur.</string>
+    <string name="custom_timeout_summary_4hours">4 uur.</string>
+    <string name="custom_timeout_summary_8hours">8 uur.</string>
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">Navigatiebalk</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Lengte van de pil</string>
+    <string name="hide_label">Verborgen</string>
+    <string name="long_label">Lang</string>
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">Gebaar handvat</string>
+    <string name="back_gesture_arrow_message">Animatie van het achterwaartse gebaar</string>
+    <string name="back_gesture_arrow_summary">Toon een geanimeerde pijl voor terug gebaar</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Pil straal</string>
+    <string name="thin_label">Dunne</string>
+    <string name="thick_label">Dik</string>
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Volledig</string>
+    <string name="back_height_high_label">Onderaan</string>
+    <string name="back_options_dialog_title">Opties</string>
+    <string name="back_height_message">Hoeveelheid schermhoogte gebruikt als aanraakbaar gebied voor rugbewegingen.</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Haptische feedback</string>
+    <string name="back_gesture_haptic_summary">Haptisch vinkeffect inschakelen bij achterwaartse beweging</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Lay-out van de navigatiebalk omkeren</string>
+    <string name="navbar_invert_info">Verwissel de knoppen \"Terug\" en \"Recents\" op de navigatiebalk</string>
+    <!-- Floating rotation button -->
+    <string name="enable_floating_rotation_button_title">Gebruik de zwevende draaiknop</string>
+</resources>

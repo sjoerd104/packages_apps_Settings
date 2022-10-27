@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI 发布版本</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">VoidUI 管理员</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">点按即可显示信息</string>
+    <!-- Game Space -->
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">增强您的游戏体验</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">滑动截图</string>
+    <string name="swipe_to_screenshot_summary">三指同时下滑以截取屏幕</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">用经过重新设计的、侵入性较小的 Ticker 取代浮动通知</string>
+    <string name="reticker_colored_title">使用应用程序颜色作为背景</string>
+    <string name="reticker_colored_summary">使用通知应用的主颜色替换 reTicker 背景颜色</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="statusbar_gesture_title">手势</string>
+    <string name="double_tap_sleep_gesture_title">双击休眠</string>
+    <string name="double_tap_sleep_gesture_summary">双击状态栏上任何位置使设备休眠</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">双击</string>
+    <string name="doze_double_tap_title">双击查看手机</string>
+    <string name="doze_double_tap_summary">双击显示通知</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">高级重启</string>
+    <string name="global_actions_advanced_reboot_summary">在电源菜单中显示恢复和引导选项</string>
+    <!-- Manage applications, package string displayed in app snippet -->
+    <!-- Battery temperature -->
+    <string name="battery_temperature">电池温度</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_summary">根据时间和环境条件优化您的屏幕，以提高可读性和减少眼睛疲劳。</string>
+    <string name="live_display_mode">显示模式</string>
+    <string name="live_display_color_temperature_title">色温</string>
+    <string name="live_display_color_temperature_summary">日: <xliff:g id="day_temperature">%1$d</xliff:g>K 夜: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">日间</string>
+    <string name="live_display_night">夜间</string>
+    <string name="live_display_outdoor_mode_title">自动启用户外模式</string>
+    <string name="live_display_outdoor_mode_summary">强光下自动增加屏幕亮度和饱和度</string>
+    <string name="live_display_anti_flicker_title">防闪烁</string>
+    <string name="live_display_anti_flicker_summary">在低亮度条件下，可防止闪烁并减少眼睛疲劳。 此模式可能降低色彩精度，并影响部分内容的显示效果。</string>
+    <string name="live_display_low_power_title">降低电量消耗</string>
+    <string name="live_display_low_power_summary">调整显示屏以获得最低功耗，但不削弱显示效果</string>
+    <string name="live_display_enhance_color_title">色彩增强</string>
+    <string name="live_display_enhance_color_summary">优化肤色、风景和其他图像的色彩饱和度</string>
+    <string name="live_display_color_profile_title">色彩配置</string>
+    <string name="live_display_color_profile_standard_title">标准</string>
+    <string name="live_display_color_profile_standard_summary">准确的颜色和明亮的白色</string>
+    <string name="live_display_color_profile_natural_title">自然</string>
+    <string name="live_display_color_profile_natural_summary">真实的色彩和肤色</string>
+    <string name="live_display_color_profile_dynamic_title">动态</string>
+    <string name="live_display_color_profile_dynamic_summary">增强的色彩和明亮的白色</string>
+    <string name="live_display_color_profile_cinema_title">影院</string>
+    <string name="live_display_color_profile_cinema_summary">针对视频的完美色彩重现</string>
+    <string name="live_display_color_profile_astronomy_title">星空</string>
+    <string name="live_display_color_profile_astronomy_summary">适合夜间使用的深红色</string>
+    <string name="live_display_color_profile_photography_title">照片</string>
+    <string name="live_display_color_profile_photography_summary">针对照片的完美色彩重现</string>
+    <string name="live_display_color_profile_basic_title">基础</string>
+    <string name="live_display_color_profile_basic_summary">使用未调整的显示配置</string>
+    <string name="live_display_color_profile_adaptive_title">自适应模式</string>
+    <string name="live_display_color_profile_adaptive_summary">颜色根据环境条件自适应</string>
+    <string name="live_display_color_profile_reading_title">阅读模式</string>
+    <string name="live_display_color_profile_reading_summary">使用暖色调以缓解眼睛疲劳</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">使用 sRGB 色彩空间校准屏幕颜色</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">使用 DCI-P3 色彩空间校准屏幕颜色</string>
+    <string name="live_display_reading_mode_title">阅读模式</string>
+    <string name="live_display_reading_mode_summary">适合长时间阅读的灰度模式</string>
+    <string name="color_calibration_title">色彩校准</string>
+    <string name="color_calibration_summary">校准屏幕颜色</string>
+    <string name="color_red_title">红</string>
+    <string name="color_green_title">绿</string>
+    <string name="color_blue_title">蓝</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">调整显示效果</string>
+    <string name="picture_adjustment_summary">调整色相、饱和度、亮度和对比度</string>
+    <string name="adj_hue_title">色相</string>
+    <string name="adj_saturation_title">饱和度</string>
+    <string name="adj_intensity_title">亮度</string>
+    <string name="adj_contrast_title">对比度</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备\u2019的 VPN 连接</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">全屏应用</string>
+    <string name="display_cutout_force_fullscreen_summary">应用强制忽略屏幕开孔</string>
+    <string name="display_cutout_force_fullscreen_no_apps">没有应用</string>
+    <string name="display_cutout_force_fullscreen_restart_app">请重新启动应用程序以应用更改。</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">忽略安全窗口标志</string>
+    <string name="ignore_window_secure_summary">移出所有应用程序的截图和录屏限制。这在某些情况下可能很方便，但可能导致隐私泄露。</string>
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">每日电池用量图表</string>
+    <string name="daily_battery_usage_chart_summary">查看过去 24 小时的使用情况</string>
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">隐藏的网络</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">您的移动热点名称将不会出现在可用的 WLAN 网络列表中</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">从不关闭热点</string>
+    <string name="wifi_hotspot_client_manager_title">已连接的设备</string>
+    <string name="wifi_hotspot_client_manager_summary">列出并管理连接到热点的设备</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">列出连接到热点的设备</string>
+    <string name="wifi_hotspot_client_limit_title">已连接设备的限制</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">已阻止的设备</string>
+    <string name="wifi_hotspot_connected_clients_list_title">已连接的设备</string>
+    <string name="wifi_hotspot_block_client_dialog_title">阻止设备</string>
+    <string name="wifi_hotspot_block_client_dialog_text">此操作将断开 \"<xliff:g id="device_name">%1$s</xliff:g>\"与该设备的连接，并将其添加到阻止列表中。</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">解除阻止设备</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">设备 \"<xliff:g id="device_name">%1$s</xliff:g>\" 将能够连接到该热点。</string>
+    <string name="wifi_hotspot_client_manager_footer_text">当前没有可用的客户端。如果可用，此处将列出已连接和已阻止的设备。</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">从不</string>
+    <string name="custom_timeout_summary_5secs">5 秒</string>
+    <string name="custom_timeout_summary_10secs">10 秒</string>
+    <string name="custom_timeout_summary_15secs">15 秒</string>
+    <string name="custom_timeout_summary_30secs">30 秒</string>
+    <string name="custom_timeout_summary_1min">1 分钟</string>
+    <string name="custom_timeout_summary_2mins">2 分钟</string>
+    <string name="custom_timeout_summary_5mins">5 分钟</string>
+    <string name="custom_timeout_summary_10mins">10 分钟</string>
+    <string name="custom_timeout_summary_20mins">20 分钟</string>
+    <string name="custom_timeout_summary_30mins">30 分钟</string>
+    <string name="custom_timeout_summary_1hour">1 小时</string>
+    <string name="custom_timeout_summary_2hours">2 小时</string>
+    <string name="custom_timeout_summary_4hours">4 小时</string>
+    <string name="custom_timeout_summary_8hours">8 小时</string>
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">导航栏</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">导航条长度</string>
+    <string name="hide_label">隐藏的</string>
+    <string name="long_label">长</string>
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">手势手柄</string>
+    <string name="back_gesture_arrow_message">背部手势动画</string>
+    <string name="back_gesture_arrow_summary">显示一个动画的箭头，用于返回手势</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">药片半径</string>
+    <string name="thin_label">薄</string>
+    <string name="thick_label">厚实</string>
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">全程</string>
+    <string name="back_height_high_label">底部</string>
+    <string name="back_options_dialog_title">选项</string>
+    <string name="back_height_message">作为背部手势的可触摸区域的屏幕高度的数量。</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">触觉反馈</string>
+    <string name="back_gesture_haptic_summary">启用背部手势的触觉刻度效果</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">倒置导航栏布局</string>
+    <string name="navbar_invert_info">调换导航栏上的 \"返回 \"和 \"回顾 \"按钮</string>
+    <!-- Floating rotation button -->
+    <string name="enable_floating_rotation_button_title">使用浮动旋转按钮</string>
+</resources>

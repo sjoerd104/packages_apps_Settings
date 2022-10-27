@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Versiune VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Întreținătorul dispozitivului</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Atingeți pentru a afișa informații</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Spațiul de jocuri</string>
+    <string name="game_space_summary">Îmbunătățiți-vă experiența de joc</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Glisați pentru captură de ecran</string>
+    <string name="swipe_to_screenshot_summary">Glisați 3 degete în jos pe ecran pentru a face o captură de ecran</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Înlocuiți notificarea heads-up cu o versiune slim și mai puțin invazivă</string>
+    <string name="reticker_colored_title">Folosiți fundal colorat pentru aplicație</string>
+    <string name="reticker_colored_summary">Înlocuiți culoarea de fundal reTicker folosind culoarea principală a aplicației de notificare</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="statusbar_gesture_title">Gesturi</string>
+    <string name="double_tap_sleep_gesture_title">Dublă-apăsare pentru oprire ecran</string>
+    <string name="double_tap_sleep_gesture_summary">Atingeți de două ori oriunde pe bara de stare pentru a adormi dispozitivul</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Atingere dublă</string>
+    <string name="doze_double_tap_title">Atingeți de două ori pentru a verifica telefonul</string>
+    <string name="doze_double_tap_summary">Pulsează notificările cu o apăsare dublă</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Repornire avansată</string>
+    <string name="global_actions_advanced_reboot_summary">Afișați opțiunile pentru recuperare și bootloader în meniul de pornire</string>
+    <!-- Manage applications, package string displayed in app snippet -->
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Temperatură baterie</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_summary">Optimizați-vă ecranul în funcție de timpul zilei și condițiile ambientale pentru a îmbunătăți lizibilitatea și a reduce oboseala ochilor</string>
+    <string name="live_display_mode">Mod de afişare</string>
+    <string name="live_display_color_temperature_title">Temperatură culoare</string>
+    <string name="live_display_color_temperature_summary">Zi : <xliff:g id="day_temperature">%1$d</xliff:g>K Noapte: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">Zi</string>
+    <string name="live_display_night">Noapte</string>
+    <string name="live_display_outdoor_mode_title">Mod automat în aer liber</string>
+    <string name="live_display_outdoor_mode_summary">Crește luminozitatea și saturația automat în lumina strălucitoare a soarelui</string>
+    <string name="live_display_anti_flicker_title">Anti pâlpâie</string>
+    <string name="live_display_anti_flicker_summary">Împiedicați pâlpâirea extensivă și reduceți tulpina ochilor în condiții de lumină scăzută. Aceasta ar putea deteriora precizia culorilor și ar putea afecta modul în care sunt afișate unele obiecte.</string>
+    <string name="live_display_low_power_title">Reduce consumul de energie</string>
+    <string name="live_display_low_power_summary">Reglaţi afişajul pentru cel mai mic consum de energie fără degradare</string>
+    <string name="live_display_enhance_color_title">Îmbunătățește culorile</string>
+    <string name="live_display_enhance_color_summary">Îmbunătățește vibranța culorilor pentru tonuri, peisaje și alte imagini</string>
+    <string name="live_display_color_profile_title">Profil culoare</string>
+    <string name="live_display_color_profile_standard_title">Standard</string>
+    <string name="live_display_color_profile_standard_summary">Culori exacte și alb luminos</string>
+    <string name="live_display_color_profile_natural_title">Naturală</string>
+    <string name="live_display_color_profile_natural_summary">Tonuri și culori realiste</string>
+    <string name="live_display_color_profile_dynamic_title">Dinamic</string>
+    <string name="live_display_color_profile_dynamic_summary">Culori îmbunătățite și alb luminos</string>
+    <string name="live_display_color_profile_cinema_title">Cinematograful</string>
+    <string name="live_display_color_profile_cinema_summary">Reproducere perfectă a culorii pentru video</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomie</string>
+    <string name="live_display_color_profile_astronomy_summary">Roșu închis pentru păstrarea vederii de noapte</string>
+    <string name="live_display_color_profile_photography_title">Fotografie</string>
+    <string name="live_display_color_profile_photography_summary">Reproducere perfectă a culorii pentru fotografii</string>
+    <string name="live_display_color_profile_basic_title">Baza</string>
+    <string name="live_display_color_profile_basic_summary">Utilizați afișajul necalibrat</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptiv</string>
+    <string name="live_display_color_profile_adaptive_summary">Culorile se adaptează la condiţiile ambientale</string>
+    <string name="live_display_color_profile_reading_title">Citire</string>
+    <string name="live_display_color_profile_reading_summary">Culori mai calde pentru reducerea oboselii ochilor</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Culorile se calibrează după spațiul de culori sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">ICD3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Culorile se calibrează după spațiul de culori DCI-P3</string>
+    <string name="live_display_reading_mode_title">Mod lectură</string>
+    <string name="live_display_reading_mode_summary">Mod grayscale pentru citire pe termen lung</string>
+    <string name="color_calibration_title">Calibrare culoare</string>
+    <string name="color_calibration_summary">Calibrare culori pe ecran</string>
+    <string name="color_red_title">Roșu</string>
+    <string name="color_green_title">Verde</string>
+    <string name="color_blue_title">Albastru</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Ajustarea imaginii</string>
+    <string name="picture_adjustment_summary">Reglaţi nuanţa, saturaţia, intensitatea şi contrastul</string>
+    <string name="adj_hue_title">Nuanță</string>
+    <string name="adj_saturation_title">Saturație</string>
+    <string name="adj_intensity_title">Intensitate</string>
+    <string name="adj_contrast_title">Contrast</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Permite clienților să utilizeze VPN-uri</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permiteti clientilor hotspot sa foloseasca acest dispozitiv\u2019s conexiuni VPN pentru conectivitate in amonte</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplicații ecran complet</string>
+    <string name="display_cutout_force_fullscreen_summary">Forțați aplicațiile să ignore spațiul notch</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Nicio aplicație</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Vă rugăm să reporniţi aplicaţia pentru a aplica modificările.</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignoră indicatorul de fereastră securizată</string>
+    <string name="ignore_window_secure_summary">Eliminați limitele de capturi de ecran și înregistrări de ecran pentru toate aplicațiile. Acest lucru poate fi convenabil în unele cazuri, dar poate duce la scurgeri de confidențialitate.</string>
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">Grafic de utilizare zilnică a bateriei</string>
+    <string name="daily_battery_usage_chart_summary">Vizualizați utilizarea pentru ultimele 24 de ore</string>
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Rețea ascunsă</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Numele hotspotului dvs. mobil nu va apărea în lista rețelelor WLAN disponibile.</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">Nu dezactivați niciodată hotspotul</string>
+    <string name="wifi_hotspot_client_manager_title">Dispozitive conectate</string>
+    <string name="wifi_hotspot_client_manager_summary">Lista și gestionarea dispozitivelor conectate la hotspot</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Lista dispozitivelor conectate la hotspot</string>
+    <string name="wifi_hotspot_client_limit_title">Limita de dispozitive conectate</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Dispozitive blocate</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Dispozitive conectate</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Dispozitiv de blocare</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Această acțiune va deconecta \"<xliff:g id="device_name">%1$s</xliff:g>\" de la acest dispozitiv și îl va adăuga la lista de blocare</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Deblocarea dispozitivului</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Dispozitivul \"<xliff:g id="device_name">%1$s</xliff:g>\" se va putea conecta la acest hotspot.</string>
+    <string name="wifi_hotspot_client_manager_footer_text">În prezent, nu sunt disponibili clienți. Dispozitivele conectate și blocate vor fi listate aici atunci când vor fi disponibile.</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Niciodată</string>
+    <string name="custom_timeout_summary_5secs">5 secunde</string>
+    <string name="custom_timeout_summary_10secs">10 secunde</string>
+    <string name="custom_timeout_summary_15secs">15 secunde</string>
+    <string name="custom_timeout_summary_30secs">30 de secunde</string>
+    <string name="custom_timeout_summary_1min">1 minut</string>
+    <string name="custom_timeout_summary_2mins">2 minute</string>
+    <string name="custom_timeout_summary_5mins">5 minute</string>
+    <string name="custom_timeout_summary_10mins">10 minute</string>
+    <string name="custom_timeout_summary_20mins">20 de minute</string>
+    <string name="custom_timeout_summary_30mins">30 de minute</string>
+    <string name="custom_timeout_summary_1hour">1 oră</string>
+    <string name="custom_timeout_summary_2hours">2 ore</string>
+    <string name="custom_timeout_summary_4hours">4 ore</string>
+    <string name="custom_timeout_summary_8hours">8 ore</string>
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">Bara de navigare</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Lungimea pastilei</string>
+    <string name="hide_label">Ascuns</string>
+    <string name="long_label">Lung</string>
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">Mâner cu gesturi</string>
+    <string name="back_gesture_arrow_message">Animația gestului de întoarcere</string>
+    <string name="back_gesture_arrow_summary">Afișați o săgeată animată pentru gestul de întoarcere</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Raza pilulei</string>
+    <string name="thin_label">Subțire</string>
+    <string name="thick_label">Grosime</string>
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Complet</string>
+    <string name="back_height_high_label">Partea de jos</string>
+    <string name="back_options_dialog_title">Opțiuni</string>
+    <string name="back_height_message">Cantitatea de înălțime a ecranului utilizată ca regiune tactilă pentru gestul de întoarcere.</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Feedback haptic</string>
+    <string name="back_gesture_haptic_summary">Activați efectul haptic de tic-tac la gestul de întoarcere</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Inversează aspectul barei de navigare</string>
+    <string name="navbar_invert_info">Schimbați butoanele \"Înapoi\" și \"Recente\" din bara de navigare</string>
+    <!-- Floating rotation button -->
+    <string name="enable_floating_rotation_button_title">Utilizați butonul de rotire flotantă</string>
+</resources>

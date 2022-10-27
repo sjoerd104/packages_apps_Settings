@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI Çıkış Sürümü</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Cihaz bakımcısı</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Bilgileri görüntülemek için tıklayın</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Oyun alanı</string>
+    <string name="game_space_summary">Oyun deneyiminizi iyileştirin</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Ekran görüntüsü almak için kaydırın</string>
+    <string name="swipe_to_screenshot_summary">Ekran görüntüsü almak için 3 parmağınızı ekranda aşağı kaydırın</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Baş üstü bildirimini, yeniden tasarlanan ticker\'ın ince ve daha az invaziv versiyonuyla değiştirin</string>
+    <string name="reticker_colored_title">Uygulama rengine göre arkaplan</string>
+    <string name="reticker_colored_summary">Bildirim uygulaması ana rengini kullanarak reTicker arka plan rengini değiştirme</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="statusbar_gesture_title">Jestler</string>
+    <string name="double_tap_sleep_gesture_title">Uyumak için çift dokunun</string>
+    <string name="double_tap_sleep_gesture_summary">Cihazı uyku moduna geçirmek için durum çubuğunda herhangi bir yere çift dokunun</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Çift dokunuş</string>
+    <string name="doze_double_tap_title">Telefonu kontrol etmek için çift dokunun</string>
+    <string name="doze_double_tap_summary">Çift dokunuşla nabız bildirimleri</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Gelişmiş yeniden başlatma</string>
+    <string name="global_actions_advanced_reboot_summary">Güç menüsünde kurtarma ve önyükleyici seçeneklerini gösterme</string>
+    <!-- Manage applications, package string displayed in app snippet -->
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Akü sıcaklığı</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_summary">Okunabilirliği artırmak ve göz yorgunluğunu azaltmak için ekranınızı günün saatine ve ortam koşullarına göre optimize edin</string>
+    <string name="live_display_mode">Ekran modu</string>
+    <string name="live_display_color_temperature_title">Renk sıcaklığı</string>
+    <string name="live_display_color_temperature_summary">Gündüz: <xliff:g id="day_temperature">%1$d</xliff:g>K Gecesi: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">Gün</string>
+    <string name="live_display_night">Gece</string>
+    <string name="live_display_outdoor_mode_title">Otomatik dış mekan modu</string>
+    <string name="live_display_outdoor_mode_summary">Parlak güneş ışığı altında parlaklığı ve doygunluğu otomatik olarak artırın</string>
+    <string name="live_display_anti_flicker_title">Titreşim önleyici</string>
+    <string name="live_display_anti_flicker_summary">Düşük ışık koşullarında aşırı titremeyi önleyin ve göz yorgunluğunu azaltın. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+    <string name="live_display_low_power_title">Güç tüketimini azaltın</string>
+    <string name="live_display_low_power_summary">Bozulma olmadan en düşük güç tüketimi için ekranı ayarlayın</string>
+    <string name="live_display_enhance_color_title">Renkleri geliştirin</string>
+    <string name="live_display_enhance_color_summary">Ten rengi tonlarının, manzaranın ve diğer görüntülerin renk canlılığını iyileştirin</string>
+    <string name="live_display_color_profile_title">Renk profili</string>
+    <string name="live_display_color_profile_standard_title">Standart</string>
+    <string name="live_display_color_profile_standard_summary">Doğru renkler ve parlak beyazlar</string>
+    <string name="live_display_color_profile_natural_title">Doğal</string>
+    <string name="live_display_color_profile_natural_summary">Gerçekçi renkler ve ten tonları</string>
+    <string name="live_display_color_profile_dynamic_title">Dinamik</string>
+    <string name="live_display_color_profile_dynamic_summary">Geliştirilmiş renkler ve parlak beyazlar</string>
+    <string name="live_display_color_profile_cinema_title">Sinema</string>
+    <string name="live_display_color_profile_cinema_summary">Video için mükemmel renk üretimi</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomi</string>
+    <string name="live_display_color_profile_astronomy_summary">Gece görüşünü korumak için koyu kırmızı</string>
+    <string name="live_display_color_profile_photography_title">Fotoğrafçılık</string>
+    <string name="live_display_color_profile_photography_summary">Fotoğraflar için mükemmel renk üretimi</string>
+    <string name="live_display_color_profile_basic_title">Temel</string>
+    <string name="live_display_color_profile_basic_summary">Ekranı kalibre edilmemiş olarak kullanın</string>
+    <string name="live_display_color_profile_adaptive_title">Uyarlanabilir</string>
+    <string name="live_display_color_profile_adaptive_summary">Renkler ortam koşullarına uyum sağlar</string>
+    <string name="live_display_color_profile_reading_title">Okuma</string>
+    <string name="live_display_color_profile_reading_summary">Daha az göz yorgunluğu için daha sıcak renkler</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Renkler sRGB renk uzayına göre doğru</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">DCI-P3 renk uzayına göre doğru renkler</string>
+    <string name="live_display_reading_mode_title">Okuma modu</string>
+    <string name="live_display_reading_mode_summary">Uzun süreli okuma için gri tonlama modu</string>
+    <string name="color_calibration_title">Renk kalibrasyonu</string>
+    <string name="color_calibration_summary">Ekran renklerini kalibre etme</string>
+    <string name="color_red_title">Kırmızı</string>
+    <string name="color_green_title">Yeşil</string>
+    <string name="color_blue_title">Mavi</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Görüntü ayarı</string>
+    <string name="picture_adjustment_summary">Renk tonu, doygunluk, yoğunluk ve kontrastı ayarlama</string>
+    <string name="adj_hue_title">Hue</string>
+    <string name="adj_saturation_title">Doygunluk</string>
+    <string name="adj_intensity_title">Yoğunluk</string>
+    <string name="adj_contrast_title">Kontrast</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">İstemcilerin VPN kullanmasına izin ver</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Hotspot kullanıcılarının bağlantıları sırasında bu cihazın \u2019s VPN bağlantısını kullanmasına izin ver</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Tam ekran uygulamaları</string>
+    <string name="display_cutout_force_fullscreen_summary">Uygulamaları çentik alanını yoksaymaya zorla</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Uygulama yok</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Değişiklikleri uygulamak için lütfen uygulamayı yeniden başlatın.</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Güvenli pencere bayrağını yoksay</string>
+    <string name="ignore_window_secure_summary">Tüm uygulamalar için ekran görüntüsü ve ekran kaydı sınırlarını kaldırın. Bu bazı durumlarda kullanışlı olabilir ancak gizlilik sızıntılarına yol açabilir.</string>
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">Günlük pil kullanım tablosu</string>
+    <string name="daily_battery_usage_chart_summary">Son 24 saatin kullanımını görüntüleyin</string>
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Gizli ağ</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Mobil etkin noktanızın adı kullanılabilir WLAN ağları listesinde görünmez.</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">Hotspot\'u asla kapatmayın</string>
+    <string name="wifi_hotspot_client_manager_title">Bağlı cihazlar</string>
+    <string name="wifi_hotspot_client_manager_summary">Hotspot\'a bağlı cihazları listeleme ve yönetme</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Hotspot\'a bağlı cihazları listeleme</string>
+    <string name="wifi_hotspot_client_limit_title">Bağlı cihazların sınırı</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Engellenen Cihazlar</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Bağlantılı Cihazlar</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Blok cihazı</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Bu eylem \"<xliff:g id="device_name">%1$s</xliff:g>\" adresinin bu cihazla bağlantısını kesecek ve engelleme listesine ekleyecektir</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Cihaz engelini kaldırın</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Cihaz \"<xliff:g id="device_name">%1$s</xliff:g>\" bu hotspot\'a bağlanabilecektir</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Şu anda hiçbir istemci mevcut değildir. Bağlanan ve engellenen cihazlar mevcut olduğunda burada listelenecektir.</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Asla</string>
+    <string name="custom_timeout_summary_5secs">5 saniye</string>
+    <string name="custom_timeout_summary_10secs">10 saniye</string>
+    <string name="custom_timeout_summary_15secs">15 saniye</string>
+    <string name="custom_timeout_summary_30secs">30 saniye</string>
+    <string name="custom_timeout_summary_1min">1 dakika</string>
+    <string name="custom_timeout_summary_2mins">2 dakika</string>
+    <string name="custom_timeout_summary_5mins">5 dakika</string>
+    <string name="custom_timeout_summary_10mins">10 dakika</string>
+    <string name="custom_timeout_summary_20mins">20 dakika</string>
+    <string name="custom_timeout_summary_30mins">30 dakika</string>
+    <string name="custom_timeout_summary_1hour">1 saat</string>
+    <string name="custom_timeout_summary_2hours">2 saat</string>
+    <string name="custom_timeout_summary_4hours">4 saat</string>
+    <string name="custom_timeout_summary_8hours">8 saat</string>
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">Gezinti çubuğu</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Gezinme çubuğu uzunluğu</string>
+    <string name="hide_label">Gizli</string>
+    <string name="long_label">Uzun</string>
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">Hareket kolu</string>
+    <string name="back_gesture_arrow_message">Geri hareket animasyonu</string>
+    <string name="back_gesture_arrow_summary">Geri hareketi için animasyonlu bir ok göster</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Hap yarıçapı</string>
+    <string name="thin_label">İnce</string>
+    <string name="thick_label">Kalın</string>
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Tam</string>
+    <string name="back_height_high_label">Alt</string>
+    <string name="back_options_dialog_title">Seçenekler</string>
+    <string name="back_height_message">Geri hareketi için dokunulabilir bölge olarak kullanılan ekran yüksekliği miktarı.</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Dokunsal geri bildirim</string>
+    <string name="back_gesture_haptic_summary">Geri hareketinde dokunsal tik efektini etkinleştir</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Gezinti çubuğu düzenini ters çevirme</string>
+    <string name="navbar_invert_info">Gezinme çubuğundaki \"Geri\" ve \"Son Kullanılanlar\" düğmelerini değiştirin</string>
+    <!-- Floating rotation button -->
+    <string name="enable_floating_rotation_button_title">Kayan döndürme düğmesini kullanma</string>
+</resources>

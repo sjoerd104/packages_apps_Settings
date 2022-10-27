@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 VoidUI Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Version de VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Mainteneurs des appareils</string>
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Appuyez pour afficher les informations</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Espace de jeu</string>
+    <string name="game_space_summary">Améliore votre expérience de jeu</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Glisser pour faire une capture d\'écran</string>
+    <string name="swipe_to_screenshot_summary">Glissez 3 doigts vers le bas de l\'écran pour prendre une capture d\'écran</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Remplacer les notifications flottantes par une version mince et moins invasive du ticker redessiné</string>
+    <string name="reticker_colored_title">Utiliser l\'arrière-plan coloré de l\'application</string>
+    <string name="reticker_colored_summary">Remplacer la couleur d\'arrière-plan de reTicker par la couleur principale de l\'application de notification</string>
+    <!-- Double Tap to Sleep Statusbar -->
+    <string name="statusbar_gesture_title">Gestes</string>
+    <string name="double_tap_sleep_gesture_title">Double appui pour mettre en veille</string>
+    <string name="double_tap_sleep_gesture_summary">Tapotez deux fois n\'importe où sur la barre d\'état pour mettre l\'appareil en veille</string>
+    <!-- Doze on double tap -->
+    <string name="double_tap_title">Double appui</string>
+    <string name="doze_double_tap_title">Double appui pour vérifier le téléphone</string>
+    <string name="doze_double_tap_summary">Faire clignoter les notifications par double appui</string>
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Redémarrage avancé</string>
+    <string name="global_actions_advanced_reboot_summary">Afficher les options pour le recovery et le bootloader dans le menu marche/arrêt</string>
+    <!-- Manage applications, package string displayed in app snippet -->
+    <!-- Battery temperature -->
+    <string name="battery_temperature">Température de la batterie</string>
+    <!-- LiveDisplay -->
+    <string name="live_display_summary">Optimisez votre écran en fonction de l\'heure de la journée et des conditions ambiantes pour améliorer la lisibilité et réduire la fatigue oculaire</string>
+    <string name="live_display_mode">Mode d\'affichage</string>
+    <string name="live_display_color_temperature_title">Température de couleur</string>
+    <string name="live_display_color_temperature_summary">Jour : <xliff:g id="day_temperature">%1$d</xliff:g>K Nuit : <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">Jour</string>
+    <string name="live_display_night">Nuit</string>
+    <string name="live_display_outdoor_mode_title">Mode extérieur automatique</string>
+    <string name="live_display_outdoor_mode_summary">Augmentez automatiquement la luminosité et la saturation sous la lumière du soleil</string>
+    <string name="live_display_anti_flicker_title">Anti-scintillement</string>
+    <string name="live_display_anti_flicker_summary">Empêcher le scintillement extensif et réduire la fatigue oculaire dans des conditions de faible luminosité. Cela peut dégrader la précision des couleurs et affecter la façon dont certains éléments sont affichés.</string>
+    <string name="live_display_low_power_title">Réduire la consommation d\'énergie</string>
+    <string name="live_display_low_power_summary">Ajuster l\'affichage pour la consommation d\'énergie la plus basse sans dégradation</string>
+    <string name="live_display_enhance_color_title">Améliorer les couleurs</string>
+    <string name="live_display_enhance_color_summary">Améliore la vibrance des couleurs des tons chair, des paysages et d\'autres images</string>
+    <string name="live_display_color_profile_title">Profil de couleur</string>
+    <string name="live_display_color_profile_standard_title">Standard</string>
+    <string name="live_display_color_profile_standard_summary">Couleurs précises et blancs vifs</string>
+    <string name="live_display_color_profile_natural_title">Naturel</string>
+    <string name="live_display_color_profile_natural_summary">Couleurs réalistes et tons chair</string>
+    <string name="live_display_color_profile_dynamic_title">Dynamique</string>
+    <string name="live_display_color_profile_dynamic_summary">Couleurs améliorées et blancs brillants</string>
+    <string name="live_display_color_profile_cinema_title">Cinéma</string>
+    <string name="live_display_color_profile_cinema_summary">Reproduction parfaite des couleurs pour la vidéo</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomie</string>
+    <string name="live_display_color_profile_astronomy_summary">Rouge profond pour préserver la vision nocturne</string>
+    <string name="live_display_color_profile_photography_title">Photographie</string>
+    <string name="live_display_color_profile_photography_summary">Reproduction parfaite des couleurs pour les photos</string>
+    <string name="live_display_color_profile_basic_title">Basique</string>
+    <string name="live_display_color_profile_basic_summary">Utiliser l\'affichage non calibré</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptatif</string>
+    <string name="live_display_color_profile_adaptive_summary">Les couleurs s\'adaptent aux conditions ambiantes</string>
+    <string name="live_display_color_profile_reading_title">Lecture en cours</string>
+    <string name="live_display_color_profile_reading_summary">Couleurs plus chaudes pour réduire la fatigue oculaire</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Couleurs précises à l\'espace de couleur sRVB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Couleurs précises à l\'espace de couleurs DCI-P3</string>
+    <string name="live_display_reading_mode_title">Mode lecture</string>
+    <string name="live_display_reading_mode_summary">Mode Niveaux de gris pour la lecture à long terme</string>
+    <string name="color_calibration_title">Calibration des couleurs</string>
+    <string name="color_calibration_summary">Calibrer les couleurs à l\'écran</string>
+    <string name="color_red_title">Rouge</string>
+    <string name="color_green_title">Vert</string>
+    <string name="color_blue_title">Bleu</string>
+    <!-- LiveDisplay : Picture Adjustment -->
+    <string name="picture_adjustment_title">Ajustement de l\'image</string>
+    <string name="picture_adjustment_summary">Ajuster la teinte, la saturation, l\'intensité et le contraste</string>
+    <string name="adj_hue_title">Teinte</string>
+    <string name="adj_saturation_title">Saturation</string>
+    <string name="adj_intensity_title">Intensité</string>
+    <string name="adj_contrast_title">Contrast</string>
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Autoriser les clients à utiliser des VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permettre aux clients hotspot d\'utiliser ce périphérique\u2019s connexions VPN pour la connectivité</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Applications en plein écran</string>
+    <string name="display_cutout_force_fullscreen_summary">Forcer les applications à ignorer l\'espace d\'encoche</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Aucune application</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Veuillez redémarrer l\'application pour appliquer les modifications.</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorer le drapeau de la fenêtre sécurisée</string>
+    <string name="ignore_window_secure_summary">Supprimez les limites de capture et d\'enregistrement d\'écran pour toutes les applications. Cela peut être pratique dans certains cas, mais peut entraîner des fuites dans la vie privée.</string>
+    <!-- Daily battery usage charge -->
+    <string name="daily_battery_usage_chart">Tableau d\'utilisation quotidienne de la batterie</string>
+    <string name="daily_battery_usage_chart_summary">Afficher l\'utilisation des dernières 24 heures</string>
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Réseau caché</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Le nom de votre hotspot mobile n\'apparaîtra pas dans la liste des réseaux WLAN disponibles.</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">Ne jamais éteindre le hotspot</string>
+    <string name="wifi_hotspot_client_manager_title">Appareils connectés</string>
+    <string name="wifi_hotspot_client_manager_summary">Liste et gestion des appareils connectés au hotspot</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Liste des appareils connectés au hotspot</string>
+    <string name="wifi_hotspot_client_limit_title">Limite des appareils connectés</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Dispositifs bloqués</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Appareils connectés</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Dispositif de blocage</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Cette action déconnectera \"<xliff:g id="device_name">%1$s</xliff:g>\" de ce dispositif et l\'ajoutera à la liste de blocage.</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Débloquer le dispositif</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">L\'appareil \"<xliff:g id="device_name">%1$s</xliff:g>\" pourra se connecter à ce point d\'accès.</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Aucun client n\'est actuellement disponible. Les appareils connectés et bloqués seront répertoriés ici lorsqu\'ils seront disponibles.</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Jamais</string>
+    <string name="custom_timeout_summary_5secs">5 secondes</string>
+    <string name="custom_timeout_summary_10secs">10 secondes</string>
+    <string name="custom_timeout_summary_15secs">15 secondes</string>
+    <string name="custom_timeout_summary_30secs">30 secondes</string>
+    <string name="custom_timeout_summary_1min">1 minute</string>
+    <string name="custom_timeout_summary_2mins">2 minutes</string>
+    <string name="custom_timeout_summary_5mins">5 minutes</string>
+    <string name="custom_timeout_summary_10mins">10 minutes</string>
+    <string name="custom_timeout_summary_20mins">20 minutes</string>
+    <string name="custom_timeout_summary_30mins">30 minutes</string>
+    <string name="custom_timeout_summary_1hour">1 heure</string>
+    <string name="custom_timeout_summary_2hours">2 heures</string>
+    <string name="custom_timeout_summary_4hours">4 heures</string>
+    <string name="custom_timeout_summary_8hours">8 heures</string>
+    <!-- Fullscreen gestures -->
+    <string name="navbar_category">Barre de navigation</string>
+    <!-- Gesture navbar length -->
+    <string name="gesture_navbar_length_title">Longueur de la pilule</string>
+    <string name="hide_label">Caché</string>
+    <string name="long_label">Long</string>
+    <!-- Back gesture animation -->
+    <string name="navbar_gesture_handle_category">Poignée gestuelle</string>
+    <string name="back_gesture_arrow_message">Animation du geste de retour</string>
+    <string name="back_gesture_arrow_summary">Afficher une flèche animée pour le geste de retour</string>
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Rayon de la pilule</string>
+    <string name="thin_label">Mince</string>
+    <string name="thick_label">Épais</string>
+    <!-- Back gesture height -->
+    <string name="back_height_low_label">Full</string>
+    <string name="back_height_high_label">Fond</string>
+    <string name="back_options_dialog_title">Options</string>
+    <string name="back_height_message">Quantité de la hauteur de l\'écran utilisée comme région touchable pour le geste du dos.</string>
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Retour haptique</string>
+    <string name="back_gesture_haptic_summary">Activez l\'effet de tic-tac haptique sur le geste de retour.</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Inverser la disposition de la barre de navigation</string>
+    <string name="navbar_invert_info">Intervertir les boutons \"Back\" et \"Recents\" de la barre de navigation</string>
+    <!-- Floating rotation button -->
+    <string name="enable_floating_rotation_button_title">Utiliser le bouton de rotation flottant</string>
+</resources>
